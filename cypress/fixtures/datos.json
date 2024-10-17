@@ -1,0 +1,15 @@
+{
+  "tareas": {
+    "tarea1": "Hacer las compras",
+    "tarea2": "Lavar las ropas",
+    "tarea3": "Ir al trabajo"
+  },
+  "productos": {
+    "producto1": {
+      "precio": 15
+    },
+    "producto2": {
+      "precio": 20
+    }
+  }
+}
